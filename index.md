@@ -16,4 +16,4 @@ I am associated with [The Open Group](https://https://www.opengroup.org/), [Pyth
 - Email: ch DOT protonmail AT vivekcherian
 - IRC: vivek / vivekvc on irc.libera.net
 - Matrix:  vivek / vivekvc
-- Linkedin: https://www.linkedin.com/in/vivekvc
+- Linkedin: [Vivek Cherian](https://www.linkedin.com/in/vivekvc)
