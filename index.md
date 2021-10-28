@@ -13,4 +13,4 @@ You can contact me at:
 
 - Email: ch DOT protonmail AT vivekcherian
 - IRC: vivek / vivekvc on irc.libera.net
-- Matrix: 
+- Matrix:  vivek / vivekvc
