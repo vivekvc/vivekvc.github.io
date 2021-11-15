@@ -13,7 +13,9 @@ I am associated with [The Open Group](https://https://www.opengroup.org/), [Pyth
 
 ### Contact
 
-- Email: ch DOT protonmail AT vivekcherian
+- Email: ch DOT protonmail AT vivekvc
 - IRC: vivek / vivekvc on irc.libera.net
 - Matrix:  vivek / vivekvc
 - Linkedin: [Vivek Cherian](https://www.linkedin.com/in/vivekvc)
+- Launchpad: [vivekvc on Launchpad](https://launchpad.net/~vivekvc)
+- Savannah: [vivekvc on Savannah](https://savannah.gnu.org/users/vivekvc)
