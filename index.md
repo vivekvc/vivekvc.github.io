@@ -13,6 +13,7 @@ I am associated with [The Open Group](https://https://www.opengroup.org/), [Pyth
 
 ### Contact
 
+- Twitter: @vivekvc
 - Email: ch DOT protonmail AT vivekvc
 - IRC: vivek / vivekvc on irc.libera.net
 - Matrix:  vivek / vivekvc
